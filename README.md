@@ -32,5 +32,5 @@ Fork the ``master`` branch and follow the [Jekyll Installation Documentation](ht
 GNU General Public License v3.0
 =======
 # xkhahuss.github.io
-xkhahuss
->>>>>>> 639911a (Initial commit)
+Enterprise Security (XaaS)
+
